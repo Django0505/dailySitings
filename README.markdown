@@ -1,6 +1,6 @@
 ### dailySitings
 ####dailySitings Manifesto
-The idea behind this is to practice what you have learnt and to avoid forgetting it. This was inspired by [Jennifer Dewalt's 180 sites in 180 days](http://jenniferdewalt.com/). This is not limited to websites; its for any project you want to build to enhance your coding knowledge. You don't have to put pressure on yourself by building advanced stuff from the beginning, the idea is to progress naturally and cement your basic understanding.
+The idea behind this is to practice what you have learnt and to avoid forgetting it. This was inspired by [Jennifer Dewalt's 180 sites in 180 days](http://jenniferdewalt.com/). This is not limited to websites; it's for any project you want to build to enhance your coding knowledge. You don't have to put pressure on yourself by building advanced stuff from the beginning, the idea is to progress naturally and cement your basic understanding.
 
 #####What you will do:
 - Make a website from scratch every single day.

@@ -14,7 +14,7 @@ The idea behind this is to practice what you have learnt and to avoid forgetting
 - Push everything to Github
 - On the last day of the week you will have to pull someone's code and work on it. This is to encourage working working on and with open source code.
 - You will have to do this every single day.
-- Spend little time on these projects as possible.
+- Spend as little time on these projects as possible.
 - When submitting to Github :octocat: make sure to write a small description about your project. i.e Include the technoligies used, and what the project is about.
 - Set up your folder like this:
 - dailySitings 

@@ -25,3 +25,6 @@ The idea behind this is to practice what you have learnt and to avoid forgetting
 - This is just an example.Make sure every project is in its own folder.
 
 If there are any changes you would like to see on this, make a pull request!:+1:
+
+
+### Make sure you fork this repository so we can see who is participating!

@@ -9,6 +9,6 @@
   "author": "Django0505",
   "license": "BSD-2-Clause",
   "dependencies": {
-    "express-handlebars": "~2.0.0"
+    "express-handlebars": "~3.0.0"
   }
 }
